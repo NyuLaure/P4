@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 13px;
 }
 
 .tight-width-whitespace {
@@ -753,7 +753,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba( 78, 55, 14, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -1036,4 +1036,8 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.ancienne-image { 
+    font-size: 22px;
 }
