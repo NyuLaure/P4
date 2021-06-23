@@ -8,13 +8,31 @@ body {
 }
 .annuaire2 li { 
     padding: 20px;
+    
+}
+.annuaire2 li a { 
+    color: #FFFFFF !important;
 }
 .annuaire1 li { 
     padding: 20px;
 }
+.annuaire1 li a { 
+    color: #FFFFFF !important;
+}
 .partenaires li { 
     padding: 20px;
 }
+.partenaires li a { 
+    color: #FFFFFF !important;
+}
+
+.img-responsive { 
+    width: 270px;
+    height: 270px;
+}
+
+
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -659,7 +677,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #FFFFFF!important;
+    color: rgb(87, 87, 87)!important;
 }
 
 .container {
