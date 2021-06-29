@@ -6,12 +6,15 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-#quote { 
+#quote p { 
     color: black;
     font-size: 20px !important;
 }
 #cite { 
     color: black !important;
+}
+.social {
+    color: white !important;
 }
 .annuaire2 li { 
     padding: 20px;
